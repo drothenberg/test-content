@@ -1,7 +1,7 @@
 #Linux test-content#
-##Red Hat Linux##
+##Mac OS##
 
-    The OVAL Test Content is currently developed and tested on the 32-bit version of Red Hat Enterprise Linux 5.
+    The OVAL Test Content is currently developed and tested on the 32-bit version of Apple Mac OSX 10.6.
 
 <strong>1. Preparing the System</strong>  
 First, extract the OVAL Test Content to a directory of your choice. Then unzip support.zip to /tmp/support.
@@ -24,13 +24,10 @@ Each OVAL Definition document is written to evaluate to true unless otherwise sp
 * ind-def:unknown_test
 * ind-def:variable_test
 * ind-def:xmlfilecontent_test
-* linux-def:dpkginfo_test
-* linux-def:inetlisteningservers_test
-* linux-def:partition_test
-* linux-def:rpminfo_test
-* linux-def:rpmverify_test
-* linux-def:selinuxboolean_test
-* linux-def:slackwarepkginfo_test
+* macos-def:accountinfo_test
+* macos-def:inetlisteningservers_test
+* macos-def:nvraminfo_test
+* macos-def:pwpolicy_test
 * oval:binary datatype
 * oval:boolean datatype
 * oval:checkenumeration (entity_check)

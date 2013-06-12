@@ -1,10 +1,10 @@
 #Linux test-content#
-##Red Hat Linux##
+##Microsoft Windows##
 
-    The OVAL Test Content is currently developed and tested on the 32-bit version of Red Hat Enterprise Linux 5.
+    The OVAL Test Content is currently developed and tested on the 32-bit version of Microsoft Windows XP and the 64-bit version of Microsoft Windows 7.  
 
 <strong>1. Preparing the System</strong>  
-First, extract the OVAL Test Content to a directory of your choice. Then unzip support.zip to /tmp/support.
+First, extract the OVAL Test Content to a directory of your choice. Then unzip support.zip to C:\support.
 
 <strong>2. Running the Content</strong>  
 Run each of the OVAL Definition documents in the platform directory of the system being tested against your OVAL Definition Evaluator.
@@ -24,13 +24,6 @@ Each OVAL Definition document is written to evaluate to true unless otherwise sp
 * ind-def:unknown_test
 * ind-def:variable_test
 * ind-def:xmlfilecontent_test
-* linux-def:dpkginfo_test
-* linux-def:inetlisteningservers_test
-* linux-def:partition_test
-* linux-def:rpminfo_test
-* linux-def:rpmverify_test
-* linux-def:selinuxboolean_test
-* linux-def:slackwarepkginfo_test
 * oval:binary datatype
 * oval:boolean datatype
 * oval:checkenumeration (entity_check)
@@ -61,13 +54,38 @@ Each OVAL Definition document is written to evaluate to true unless otherwise sp
 * oval-def:substring function
 * oval-def:time_difference function
 * oval-def:variable_component
-* unix-def:file_test
-* unix-def:inetd_test
-* unix-def:interface_test
-* unix-def:password_test
-* unix-def:process_test
-* unix-def:process58_test
-* unix-def:runlevel_test
-* unix-def:shadow_test
-* unix-def:uname_test
-* unix-def:xinetd_test
+* win-def:accesstoken_test
+* win-def:activedirectory_test
+* win-def:auditeventpolicy_test
+* win-def:auditeventpolicysubcategories_test
+* win-def:file_test
+* win-def:fileauditedpermissions_test
+* win-def:fileauditedpermissions53_test
+* win-def:fileeffectiverights_test
+* win-def:fileeffectiverights53_test
+* win-def:group_sid_test
+* win-def:group_test
+* win-def:interface_test
+* win-def:lockoutpolicy_test
+* win-def:metabase_test
+* win-def:passwordpolicy_test
+* win-def:port_test
+* win-def:printereffectiverights_test
+* win-def:process_test
+* win-def:process58_test
+* win-def:registry_test
+* win-def:regkeyeffectiverights_test
+* win-def:regkeyeffectiverights53_test
+* win-def:regkeyauditedpermissions_test
+* win-def:regkeyauditedpermissions53_test
+* win-def:serviceeffectiverights_test
+* win-def:sharedresource_test
+* win-def:sid_sid_test
+* win-def:sid_test
+* win-def:uac_test
+* win-def:user_sid55_test
+* win-def:user_test
+* win-def:volume_test
+* win-def:wmi_test
+* win-def:wmi57_test
+* win-def:wuaupdatesearcher_test
