@@ -1,4 +1,4 @@
-#Linux test-content#
+#Solaris test-content#
 ##Sun Solaris##
 
     The OVAL Test Content is currently developed and tested on the 32-bit version of Sun Solaris 10.
@@ -26,13 +26,15 @@ Each OVAL Definition document is written to evaluate to true unless otherwise sp
 * ind-def:xmlfilecontent_test
 * oval:binary datatype
 * oval:boolean datatype
-* oval:checkenumeration (entity_check)
-* oval:checkenumeration (test)
-* oval:checkenumeration (var_check)
+* oval:check enumeration (entity_check)
+* oval:check enumeration (test)
+* oval:check enumeration (var_check)
 * oval:evr_string datatype
-* oval:existenceenumeration
+* oval:existence enumeration
 * oval:float datatype
 * oval:int datatype
+* oval:ipv4address datatype
+* oval:ipv6address datatype
 * oval:string datatype
 * oval:version datatype
 * oval-def:arithmetic function

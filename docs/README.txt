@@ -2,7 +2,7 @@
 
                   OVAL Test Content
 
- Copyright (c) 2002 - 2012 - The MITRE Corporation
+ Copyright (c) 2002 - 2013 - The MITRE Corporation
 
 ****************************************************
 
@@ -117,6 +117,5 @@ OVAL Test Content Wiki -- http://sourceforge.net/apps/mediawiki/ovaltestcontent
 Making Security Measurable - http://msm.mitre.org
 
 ----------------------------------------------------------
-OVAL is sponsored by US-CERT at the U.S. Department of Homeland 
-Security. OVAL and the OVAL logo are trademarks of The MITRE 
-Corporation. Copyright 2002-2012, The MITRE Corporation (www.mitre.org).
+OVAL is co-sponsored by the office of Cybersecurity and Communications at the U.S. Department of Homeland Security. OVAL and the OVAL logo are trademarks of The MITRE 
+Corporation. Copyright 2002-2013, The MITRE Corporation (www.mitre.org).

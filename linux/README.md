@@ -14,6 +14,7 @@ Each OVAL Definition document is written to evaluate to true unless otherwise sp
 
 ##Supported Constructs##
 * ind-def:environmentvariable_test
+* ind-def:environmentvariable58_test
 * ind-def:family_test
 * ind-def:filehash_test
 * ind-def:filehash58_test
@@ -30,16 +31,19 @@ Each OVAL Definition document is written to evaluate to true unless otherwise sp
 * linux-def:rpminfo_test
 * linux-def:rpmverify_test
 * linux-def:selinuxboolean_test
+* linux-def:selinuxsecuritycontext_test
 * linux-def:slackwarepkginfo_test
 * oval:binary datatype
 * oval:boolean datatype
-* oval:checkenumeration (entity_check)
-* oval:checkenumeration (test)
-* oval:checkenumeration (var_check)
+* oval:check enumeration (entity_check)
+* oval:check enumeration (test)
+* oval:check enumeration (var_check)
 * oval:evr_string datatype
-* oval:existenceenumeration
+* oval:existence enumeration
 * oval:float datatype
 * oval:int datatype
+* oval:ipv4address datatype
+* oval:ipv6address datatype
 * oval:string datatype
 * oval:version datatype
 * oval-def:arithmetic function

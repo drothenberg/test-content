@@ -4,7 +4,7 @@
 
           Build Instructions - Windows
 
-  Copyright (c) 2002-2012, The MITRE Corporation
+  Copyright (c) 2002-2013, The MITRE Corporation
 
 ****************************************************
 
@@ -227,6 +227,7 @@ http://oval.mitre.org/language/download/interpreter/index.html
 Terms of Use -- http://oval.mitre.org/about/bsd_license.html
 
 ----------------------------------------------------------
-OVAL is sponsored by US-CERT at the U.S. Department of Homeland
+OVAL is co-sponsored by the office of Cybersecurity
+and Communications at the U.S. Department of Homeland
 Security. OVAL and the OVAL logo are trademarks of The MITRE
-Corporation. Copyright 2002-2012, The MITRE Corporation (www.mitre.org).
+Corporation. Copyright 2002-2013, The MITRE Corporation (www.mitre.org).

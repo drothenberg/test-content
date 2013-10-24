@@ -3,7 +3,7 @@
   <generator>
     <oval:schema_version>5.10.1</oval:schema_version>
     <oval:timestamp>2009-01-12T10:41:00-05:00</oval:timestamp>
-    <terms_of_use>Copyright (c) 2002-2012, The MITRE Corporation. All rights reserved. The contents of this file are subject to the license described in terms.txt.</terms_of_use>
+    <terms_of_use>Copyright (c) 2002-2013, The MITRE Corporation. All rights reserved. The contents of this file are subject to the license described in terms.txt.</terms_of_use>
   </generator>
   <definitions>
     <definition id="oval:org.mitre.oval.test:def:33" version="13" class="miscellaneous">
