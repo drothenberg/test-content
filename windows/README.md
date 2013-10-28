@@ -1,4 +1,4 @@
-#Windows test-content#
+#Windows Test Content#
 ##Microsoft Windows##
 
     The OVAL Test Content is currently developed and tested on the 32-bit version of Microsoft Windows XP and the 64-bit version of Microsoft Windows 7.  

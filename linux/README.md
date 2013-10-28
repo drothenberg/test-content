@@ -1,4 +1,4 @@
-#Linux test-content#
+#Linux Test Content#
 ##Red Hat Linux##
 
     The OVAL Test Content is currently developed and tested on the 32-bit version of Red Hat Enterprise Linux 5.

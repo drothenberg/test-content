@@ -1,4 +1,4 @@
-#Mac OS test-content#
+#Mac OS Test Content#
 ##Mac OS##
 
     The OVAL Test Content is currently developed and tested on the 32-bit version of Apple Mac OSX 10.6.

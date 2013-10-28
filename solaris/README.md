@@ -1,4 +1,4 @@
-#Solaris test-content#
+#Solaris Test Content#
 ##Sun Solaris##
 
     The OVAL Test Content is currently developed and tested on the 32-bit version of Sun Solaris 10.

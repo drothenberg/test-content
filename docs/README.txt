@@ -25,15 +25,15 @@ WITH THE OVAL TEST CONTENT.
 
 -- CONTENTS --
 	
-  I	    SUPPORTED PLATFORMS
-		 A. Red Hat Linux 
+  I     SUPPORTED PLATFORMS
+         A. Red Hat Linux 
          B. Sun Solaris
          C. Microsoft Windows
          D. Mac OS
   II    USING THE OVAL TEST CONTENT
          A. Preparing the System
          B. Running the Content
-		 C. Expected Results
+         C. Expected Results
   III   REQUESTING NEW CONTENT
   IV    REPORTING PROBLEMS
   V     USEFUL LINKS
@@ -104,7 +104,7 @@ with a brief description of the problem. Please include the platform
 and version of the OVAL Test Content, the name of the OVAL Definitions 
 document, and the identifier of the affected construct.
 
--- V ­ USEFUL LINKS --
+-- V -- USEFUL LINKS --
 
 OVAL Web site -- http://oval.mitre.org
 
