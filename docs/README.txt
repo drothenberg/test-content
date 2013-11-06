@@ -87,8 +87,7 @@ WITH THE OVAL TEST CONTENT.
 -- III -- REQUESTING NEW CONTENT --
 
 To request new OVAL Test Content, please add a feature request 
-tracker item, or create a post on the OVAL Test Content Help Project 
-Forum (http://sourceforge.net/projects/ovaltestcontent/support), 
+tracker item (https://github.com/OVALProject/Test-Content/issues/new?&labels=feature%20request), 
 with a brief description of the content that you would like to see
 created. We will be adding new OVAL Test Content as we implement new
 features in the OVAL Interpreter, however, if the OVAL Community
@@ -98,8 +97,7 @@ accommodate that need.
 -- IV -- REPORTING PROBLEMS --
 
 To report a problem with the OVAL Test Content, please add a bug 
-tracker item, or create a post on the OVAL Test Content Help Project 
-Forum (http://sourceforge.net/projects/ovaltestcontent/support), 
+tracker item (https://github.com/OVALProject/Test-Content/issues/new?&labels=bug), 
 with a brief description of the problem. Please include the platform 
 and version of the OVAL Test Content, the name of the OVAL Definitions 
 document, and the identifier of the affected construct.
@@ -108,11 +106,11 @@ document, and the identifier of the affected construct.
 
 OVAL Web site -- http://oval.mitre.org
 
-OVAL Test Content SourceForge Site -- http://sourceforge.net/projects/ovaltestcontent
+OVAL Test Content GitHub Site -- https://github.com/OVALProject/Test-Content
 
 OVAL Terms of Use -- http://oval.mitre.org/oval/about/termsofuse.html
 
-OVAL Test Content Wiki -- http://sourceforge.net/apps/mediawiki/ovaltestcontent
+OVAL Test Content Wiki -- https://github.com/OVALProject/Test-Content/wiki
 
 Making Security Measurable - http://msm.mitre.org
 
