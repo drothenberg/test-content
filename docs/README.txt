@@ -53,8 +53,7 @@ WITH THE OVAL TEST CONTENT.
   C. Microsoft Windows
   
 	  The OVAL Test Content is currently developed and tested on 
-	  the 32-bit version of Microsoft Windows XP and the 64-bit 
-	  version of Microsoft Windows 7.  
+	  the 64-bit version of Microsoft Windows 7.  
 
   D. Mac OS  
 
